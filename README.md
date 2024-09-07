@@ -19,6 +19,12 @@
 - 중고등학생 학급 친구 만들기 AI 챗봇 ‘Feelow’ 프로젝트
 - 부모 자녀 관계 향상 서비스, 더 좋은 부모 되기 'I-CARE' 프로젝트
 
+### Career
+- (주)잇올 2023-05-26 ~ 2023-08-07 Network and Linux developer
+- (주)소만사 2024-07-01 ~ 2024-08-31 Full stack developer/ Develops developer
+- (주)영풍 2024-09-02 ~ Full stack developer
+
 ### Volunteer
 - 덕성여자대학교 사회봉사단 i-coding (2021.09 - 2022.03) 
 - 덕성여자대학교 도봉영재원 정보조교 (2022.03 - 2022.12)
+
