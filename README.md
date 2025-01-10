@@ -25,7 +25,7 @@
 ### Career
 - (주)잇올 2023-05-26 ~ 2023-08-07 Network and Linux developer
 - (주)소만사 2024-07-01 ~ 2024-08-31 Full stack developer/ Develops developer
-- (주)고려아연 2024-09-02 ~ Backend developer
+- (주)고려아연 2024-09-02 ~ Backend developer / Develops developer
 
 ### Volunteer
 - 덕성여자대학교 사회봉사단 i-coding (2021.09 - 2022.03) 
