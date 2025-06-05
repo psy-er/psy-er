@@ -19,8 +19,8 @@
 - 중고등학생 학급 친구 만들기 AI 챗봇 ‘Feelow’ 프로젝트
 - 부모 자녀 관계 향상 서비스, 더 좋은 부모 되기 'I-CARE' 프로젝트
 - 'Rocksdb Browser' 데스크톱 앱 만들기 프로젝트
-- 'E-HR 총무 프로그램' 프로젝트
-- 'StayByMe' 프로젝트
+- 'E-HR' 프로젝트
+- 'StayByMe ERP' 프로젝트
 
 ### Career
 - (주)잇올 2023-05-26 ~ 2023-08-07 Network and Linux developer
