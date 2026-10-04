@@ -11,6 +11,7 @@
 - 2201회 리눅스마스터 2급 자격증 취득 (2022.03.12)
 - 51회 SQL 개발자 (SQLD) 자격증 취득 (2023.12.15)
 - 2024년 정보처리기사 필기 합격 (2024.06.05)
+- Certified AppIication DeveIoper (CAD) 합격 (2026.08.24)
 
 ### Projects 
 - 웹 스크래핑을 활용한 금융데이터 분석과 시각화 프로젝트
@@ -19,8 +20,11 @@
 - 중고등학생 학급 친구 만들기 AI 챗봇 ‘Feelow’ 프로젝트
 - 부모 자녀 관계 향상 서비스, 더 좋은 부모 되기 'I-CARE' 프로젝트
 - 'Rocksdb Browser' 데스크톱 앱 만들기 프로젝트
-- 'E-HR' 프로젝트
+- 스마일게이트 'E-HR' 프로젝트
 - 'StayByMe ERP' 프로젝트
+- LX 그룹 ITSM 구축 프로젝트
+- 한국 Yokogawa BPM 프로젝트
+- 고려아연 LIVE 프로젝트
 
 ### Career
 - (주)잇올 2023-05-26 ~ 2023-08-07 Network and Linux developer
